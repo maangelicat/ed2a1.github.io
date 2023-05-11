@@ -23,7 +23,6 @@ Condiciones:
 |----------|
 | 1. El asistente de glosa ingresa el nombre de la EPS de la cual va a registrar las glosas y las devoluciones. |
 | 2. Digita la causal que el sistema le solicite la información, primero la cantidad y posteriormente el valor de las glosas y devoluciones recibidas. |
-|3.  El sistema calcula el promedio del valor y de la cantidad recibida (∑(EPS1, EPS2, EPS3) / Total Causales) / Cantidad EPS’s |
-
-
+|3.  El sistema calcula el promedio del valor recibido (∑(EPS1, EPS2, EPS3) / Total Causales) / Cantidad EPS’s |
+|4.  El sistema calcula el promedio del valor recibido (∑(EPS1, EPS2, EPS3) / Total Causales) / Cantidad EPS’s |
 
