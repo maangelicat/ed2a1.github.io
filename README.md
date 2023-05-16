@@ -37,11 +37,11 @@ Condiciones:
 
 ## Pseudocodigo:
 
-'Inicio
-Caracter: nombre [50]
-Entero: cantAut [50]
-Real: valAut [50]
-Entero: cantFac [50]
+'Inicio'
+'Caracter: nombre [50]'
+'Entero: cantAut [50]'
+'Real: valAut [50]'
+'Entero: cantFac [50]'
 Real: valFac [50]
 Entero: cantSop [50]
 Real: valSop [50] Entero: numEPS
