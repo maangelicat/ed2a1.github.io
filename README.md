@@ -15,7 +15,7 @@ Condiciones:
 ## Aproximación caso de uso:
 ![WhatsApp Image 2023-05-15 at 21 25 28](https://github.com/maangelicat/ed2a1.github.io/assets/128763241/69b1ca3d-e631-4efd-83ee-868c7ca8c178)
 
-## Descripción caso de uso:
+### Descripción caso de uso:
 
 | **Caso de uso** | Registro Devoluciones por EPS |
 |----------|----------|
