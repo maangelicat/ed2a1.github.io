@@ -37,7 +37,7 @@ Condiciones:
 
 ## Pseudocodigo:
 
-Inicio
+'Inicio
 Caracter: nombre [50]
 Entero: cantAut [50]
 Real: valAut [50]
@@ -79,5 +79,5 @@ Para i=0 hasta numEPS -1, 1
 promedioval=promedioval((valAut[i]+valFac[i]+valSop[i])/3)/numEPS
 finPara
 Imprimir: ‘El promedio es:’ + promedioval
-Fin
+Fin'
 
