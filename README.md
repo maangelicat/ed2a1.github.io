@@ -38,18 +38,18 @@ Condiciones:
 ## Pseudocodigo:
 
     Inicio
-Caracter: nombre [50]
-Entero: cantAut [50]
-Real: valAut [50]
-Entero: cantFac [50]
-Real: valFac [50]
-Entero: cantSop [50]
-Real: valSop [50] Entero: numEPS
-Caracter: nom
-Entero: numEps, I, canta, cantf, cants
-Real: vala, valf, vals
-Real: promediocant, promedioval =0
-Imprimir: ‘Digite el número de EPS’s a registrar: ’
+    Caracter: nombre [50]
+    Entero: cantAut [50]
+    Real: valAut [50]
+    Entero: cantFac [50]
+    Real: valFac [50]
+    Entero: cantSop [50]
+    Real: valSop [50] Entero: numEPS
+    Caracter: nom
+    Entero: numEps, I, canta, cantf, cants
+    Real: vala, valf, vals
+    Real: promediocant, promedioval =0
+    Imprimir: ‘Digite el número de EPS’s a registrar: ’
 Asignar: numEPS
 Para i=0 hasta numEPS - 1, 1
 Imprimir: ‘Digite la cantidad de facturas notificadas por autorización:’
