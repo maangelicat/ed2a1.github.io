@@ -50,34 +50,34 @@ Condiciones:
     Real: vala, valf, vals
     Real: promediocant, promedioval =0
     Imprimir: ‘Digite el número de EPS’s a registrar: ’
-Asignar: numEPS
-Para i=0 hasta numEPS - 1, 1
-Imprimir: ‘Digite la cantidad de facturas notificadas por autorización:’
-Asignar: cana
-Imprimir: ‘Digite la cantidad de facturas notificadas por facturacion:’
-Asignar: canf
-Imprimir: ‘Digite la cantidad de facturas notificadas por soportes:’
-Asignar: cans
-Imprimir: ‘Digite el valor de facturas notificadas por autorización:’
-Asignar: vala
-Imprimir: ‘Digite el valor de facturas notificadas por facturacion:’
-Asignar: valf
-Imprimir: ‘Digite el valor de facturas notificadas por soportes:’
-Asignar: vals
-nombre [i]=nom
-cantAut [i]=canta
-valAut [i]=vala
-cantFac [i]=cantf
-valFac [i]=valf
-cantSop [i]=cants
-finPara
-Para i=0 hasta numEPS -1, 1
-promediocant=promediocan((cantAut[i]+cantFac[i]+cantSop[i])/3)/numEPS
-finPara
-Imprimir: ‘El promedio es:’ + promediocant
-Para i=0 hasta numEPS -1, 1
-promedioval=promedioval((valAut[i]+valFac[i]+valSop[i])/3)/numEPS
-finPara
-Imprimir: ‘El promedio es:’ + promedioval
-Fin'
+    Asignar: numEPS
+    Para i=0 hasta numEPS - 1, 1
+    Imprimir: ‘Digite la cantidad de facturas notificadas por autorización:’
+    Asignar: cana
+    Imprimir: ‘Digite la cantidad de facturas notificadas por facturacion:’
+    Asignar: canf
+    Imprimir: ‘Digite la cantidad de facturas notificadas por soportes:’
+    Asignar: cans
+    Imprimir: ‘Digite el valor de facturas notificadas por autorización:’
+    Asignar: vala
+    Imprimir: ‘Digite el valor de facturas notificadas por facturacion:’
+    Asignar: valf
+    Imprimir: ‘Digite el valor de facturas notificadas por soportes:’
+    Asignar: vals
+    nombre [i]=nom
+    cantAut [i]=canta
+    valAut [i]=vala
+    cantFac [i]=cantf
+    valFac [i]=valf
+    cantSop [i]=cants
+    finPara
+    Para i=0 hasta numEPS -1, 1
+    promediocant=promediocan((cantAut[i]+cantFac[i]+cantSop[i])/3)/numEPS
+    finPara
+    Imprimir: ‘El promedio es:’ + promediocant
+    Para i=0 hasta numEPS -1, 1
+    promedioval=promedioval((valAut[i]+valFac[i]+valSop[i])/3)/numEPS
+    finPara
+    Imprimir: ‘El promedio es:’ + promedioval
+    Fin'
 
