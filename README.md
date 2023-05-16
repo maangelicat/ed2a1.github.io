@@ -30,3 +30,8 @@ Condiciones:
 |3.  El sistema calcula el promedio del valor recibido (∑(EPS1, EPS2, EPS3) / Total Causales) / Cantidad EPS’s |
 |4.  El sistema calcula el promedio del valor recibido (∑(EPS1, EPS2, EPS3) / Total Causales) / Cantidad EPS’s |
 
+### Diagrama de flujo:
+
+![Diagrama de flujo_page-0001](https://github.com/maangelicat/ed2a1.github.io/assets/128763241/dd82f386-36e9-4788-803b-73edbf28c410)
+
+
