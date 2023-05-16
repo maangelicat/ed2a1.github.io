@@ -12,10 +12,10 @@ Condiciones:
 ![Historia1](https://github.com/maangelicat/ed2a1.github.io/assets/128763241/22827cfa-0f83-4acf-86ea-863d54f287fc)
 ![Historia2](https://github.com/maangelicat/ed2a1.github.io/assets/128763241/20c7a381-8143-478b-8c49-44fee5512136)
 
-### Aproximación caso de uso:
+## Aproximación caso de uso:
 ![WhatsApp Image 2023-05-15 at 21 25 28](https://github.com/maangelicat/ed2a1.github.io/assets/128763241/69b1ca3d-e631-4efd-83ee-868c7ca8c178)
 
-### Descripción caso de uso:
+## Descripción caso de uso:
 
 | **Caso de uso** | Registro Devoluciones por EPS |
 |----------|----------|
@@ -30,12 +30,12 @@ Condiciones:
 |3.  El sistema calcula el promedio del valor recibido (∑(EPS1, EPS2, EPS3) / Total Causales) / Cantidad EPS’s |
 |4.  El sistema calcula el promedio del valor recibido (∑(EPS1, EPS2, EPS3) / Total Causales) / Cantidad EPS’s |
 
-### Diagrama de flujo:
+## Diagrama de flujo:
 
 ![Diagrama de flujo_page-0001](https://github.com/maangelicat/ed2a1.github.io/assets/128763241/dd82f386-36e9-4788-803b-73edbf28c410)
 
 
-### Pseudocodigo:
+## Pseudocodigo:
 
 Inicio
 Caracter: nombre [50]
