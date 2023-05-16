@@ -9,6 +9,9 @@ Condiciones:
 
 ## Historias de usuario:
 
+![Historia1](https://github.com/maangelicat/ed2a1.github.io/assets/128763241/22827cfa-0f83-4acf-86ea-863d54f287fc)
+![Historia2](https://github.com/maangelicat/ed2a1.github.io/assets/128763241/20c7a381-8143-478b-8c49-44fee5512136)
+
 ### Aproximación caso de uso:
 
 ### Descripción caso de uso:
